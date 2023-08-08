@@ -1,9 +1,3 @@
-/*******************************************************************************
-*			UDF file for particle injection                  					*
-*			Prepared by Department of Chemical Engineering						*
-*			Pakistan Institute of Engineering & Applied Sciences, Pakistan		*
-*																				*
-********************************************************************************/
 #include "udf.h"
 
 
